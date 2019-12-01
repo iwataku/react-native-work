@@ -1,0 +1,684 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Touchale",
+				"TouchableWithoutFeedback"
+			],
+			[
+				"open",
+				"Linking.openURL"
+			],
+			[
+				"bod",
+				"borderWidth\tnumber"
+			],
+			[
+				"bord",
+				"borderRadius\tnumber"
+			],
+			[
+				"Touc",
+				"TouchableOpacity"
+			],
+			[
+				"thumb",
+				"thumbnailContainerStyle"
+			],
+			[
+				"borderBottom",
+				"borderBottomWidth\tnumber"
+			],
+			[
+				"shado",
+				"shadowRadius\tnumber"
+			],
+			[
+				"sh",
+				"shadowOpacity\tnumber"
+			],
+			[
+				"borderb",
+				"borderBottomWidth\tnumber"
+			],
+			[
+				"bo",
+				"borderColor\tcolor"
+			],
+			[
+				"Ap",
+				"AppRegistry"
+			],
+			[
+				"erro",
+				"errorMessage"
+			],
+			[
+				"config",
+				"config_apache_a"
+			],
+			[
+				"cpu",
+				"cpu_usage_threshold"
+			],
+			[
+				"art",
+				"artifact_id"
+			],
+			[
+				"app",
+				"application_key"
+			],
+			[
+				"datad",
+				"datadog_client"
+			],
+			[
+				"worker",
+				"worker_processes"
+			],
+			[
+				"artifact",
+				"artifact_dir"
+			],
+			[
+				"artifa",
+				"artifact_conf"
+			],
+			[
+				"arti",
+				"artifact_conf"
+			],
+			[
+				"sec",
+				"secret_access_key"
+			],
+			[
+				"des",
+				"destination"
+			],
+			[
+				"revalida",
+				"revalidate_on"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 149.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"babl",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"bable",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"ba",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"d",
+				"Package Control: Disable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"installpa",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"mar",
+				"OmniMarkupPreviewer: Empty Cache"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"terr",
+				"Set Syntax: Terraform"
+			],
+			[
+				"ter",
+				"Set Syntax: Terraform"
+			],
+			[
+				"terra",
+				"Set Syntax: Terraform"
+			],
+			[
+				"go",
+				"Set Syntax: Go"
+			],
+			[
+				"groov",
+				"Set Syntax: Groovy"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"preview",
+				"OmniMarkupPreviewer: Empty Cache"
+			],
+			[
+				"markup",
+				"OmniMarkupPreviewer: Empty Cache"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"set table",
+				"Table Editor: Set table syntax 'Simple' for current view"
+			],
+			[
+				"enable",
+				"Table Editor: Enable for current syntax"
+			],
+			[
+				"y",
+				"Set Syntax: YAML"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"yml",
+				"Set Syntax: YAML"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"groo",
+				"Set Syntax: Groovy"
+			],
+			[
+				"install paca",
+				"Package Control: Install Package"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"mdown",
+				"Set Syntax: Markdown"
+			]
+		],
+		"width": 548.0
+	},
+	"console":
+	{
+		"height": 106.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/t_iwanaga/workspace/private/react_native",
+		"/Users/t_iwanaga/workspace/private/react_native/albums",
+		"/Users/t_iwanaga/workspace/private/react_native/albums/src",
+		"/Users/t_iwanaga/workspace/private/react_native/albums/src/components",
+		"/Users/t_iwanaga/workspace/private/react_native/auth",
+		"/Users/t_iwanaga/workspace/private/react_native/auth/src",
+		"/Users/t_iwanaga/workspace/private/react_native/auth/src/components",
+		"/Users/t_iwanaga/workspace/private/react_native/tech_stack",
+		"/Users/t_iwanaga/workspace/private/react_native/tech_stack/src",
+		"/Users/t_iwanaga/workspace/private/react_native/tech_stack/src/actions",
+		"/Users/t_iwanaga/workspace/private/react_native/tech_stack/src/components",
+		"/Users/t_iwanaga/workspace/private/react_native/tech_stack/src/reducers"
+	],
+	"file_history":
+	[
+		"/Users/t_iwanaga/Documents/みやちゃーと.side",
+		"/Users/t_iwanaga/Documents/宮チャート.side",
+		"/Users/t_iwanaga/Library/Logs/DiagnosticReports/mira_2018-12-22-204712_RLS01010743M01.crash",
+		"/Users/t_iwanaga/Library/Logs/DiagnosticReports/mira_2018-12-22-202035_RLS01010743M01.crash",
+		"/Users/t_iwanaga/Library/Logs/DiagnosticReports/mira_2018-12-22-204243_RLS01010743M01.crash",
+		"/Users/t_iwanaga/workspace/private/react_native/tech_stack/src/components/ListItem.js",
+		"/Users/t_iwanaga/workspace/private/react_native/tech_stack/src/components/LibraryList.js",
+		"/Users/t_iwanaga/workspace/private/react_native/auth/src/App.js",
+		"/Users/t_iwanaga/workspace/private/react_native/tech_stack/src/reducers/LibraryReducer.js",
+		"/Users/t_iwanaga/workspace/private/react_native/auth/src/components/LoginForm.js",
+		"/Users/t_iwanaga/workspace/private/react_native/tech_stack/src/reducers/SelectionReducer.js",
+		"/Users/t_iwanaga/workspace/private/react_native/tech_stack/index.js",
+		"/Users/t_iwanaga/workspace/private/react_native/tech_stack/src/App.js",
+		"/Users/t_iwanaga/workspace/private/react_native/tech_stack/src/actions/index.js",
+		"/Users/t_iwanaga/workspace/private/react_native/albums/src/components/AlbumList.js",
+		"/Users/t_iwanaga/workspace/private/react_native/tech_stack/src/reducers/ConsoleReducer.js",
+		"/Users/t_iwanaga/workspace/private/react_native/tech_stack/src/reducers/index.js",
+		"/Users/t_iwanaga/workspace/private/react_native/auth/package.json",
+		"/Users/t_iwanaga/workspace/private/react_native/tech_stack/src/components/common/Button.js",
+		"/Users/t_iwanaga/workspace/private/react_native/auth/src/components/common/Button.js",
+		"/Users/t_iwanaga/workspace/private/react_native/auth/app.json",
+		"/Users/t_iwanaga/workspace/private/react_native/auth/index.js",
+		"/Users/t_iwanaga/workspace/private/react_native/auth/.eslintrc",
+		"/Users/t_iwanaga/workspace/private/react_native/tech_stack/node_modules/react-redux/es/connect/selectorFactory.js",
+		"/Users/t_iwanaga/workspace/private/react_native/tech_stack/src/reducers/LibraryList.json",
+		"/Users/t_iwanaga/workspace/private/react_native/tech_stack/src/index.js",
+		"/Users/t_iwanaga/workspace/private/react_native/auth/src/components/common/Card.js",
+		"/Users/t_iwanaga/workspace/private/react_native/auth/src/components/common/CardSection.js",
+		"/Users/t_iwanaga/workspace/private/react_native/tech_stack/.eslintrc",
+		"/Users/t_iwanaga/workspace/private/react_native/auth/src/components/common/Spinner.js",
+		"/Users/t_iwanaga/workspace/private/react_native/auth/src/components/common/Input.js",
+		"/Users/t_iwanaga/workspace/private/react_native/auth/src/components/common/index.js",
+		"/Users/t_iwanaga/workspace/private/react_native/auth/src/components/common/Header.js",
+		"/Users/t_iwanaga/workspace/private/react_native/auth/node_modules/fsevents/node_modules/tar/lib/header.js",
+		"/Users/t_iwanaga/workspace/private/react_native/auth/src/index.js",
+		"/Users/t_iwanaga/workspace/private/react_native/auth/src/.eslintrc",
+		"/Users/t_iwanaga/workspace/private/react_native/albums/.eslintrc",
+		"/Users/t_iwanaga/workspace/private/react_native/auth/App.js",
+		"/Users/t_iwanaga/workspace/private/react_native/albums/src/components/CardSection.js",
+		"/Users/t_iwanaga/workspace/private/react_native/albums/src/components/Card.js",
+		"/Users/t_iwanaga/workspace/private/react_native/albums/index.js",
+		"/Users/t_iwanaga/workspace/private/react_native/albums/src/components/Header.js",
+		"/Users/t_iwanaga/workspace/private/react_native/albums/src/components/AlbumDetail.js",
+		"/Users/t_iwanaga/workspace/private/react_native/albums/src/components/Button.js",
+		"/Users/t_iwanaga/workspace/private/react_native/albums/node_modules/react-native/ReactAndroid/src/androidTest/java/com/facebook/react/testing/IntRecordingModule.java",
+		"/Users/t_iwanaga/Library/Application Support/Sublime Text 3/Packages/ESLint-Formatter/Default (OSX).sublime-keymap",
+		"/Users/t_iwanaga/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/Users/t_iwanaga/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/t_iwanaga/workspace/private/react_native/albums/node_modules/react/index.js",
+		"/Users/t_iwanaga/workspace/private/react_native/albums/node_modules/react/cjs/react.production.min.js",
+		"/Users/t_iwanaga/workspace/private/react_native/albums/App.js",
+		"/Users/t_iwanaga/workspace/hpb-clinic/hpb-apiclient-generator/src/main/resources/HpbApiClientCodeGenerator/api.mustache",
+		"/Users/t_iwanaga/workspace/hpb-clinic/hpb-clinic-backend-java-blueprint/generated/backend-api-client/pom.xml",
+		"/Users/t_iwanaga/workspace/hpb-clinic/hpb-apiclient-generator/src/main/resources/HpbApiClientCodeGenerator/api_client.mustache",
+		"/Users/t_iwanaga/workspace/hpb-clinic/hpb-apiclient-generator/src/main/resources/HpbApiClientCodeGenerator/api_exception.mustache",
+		"/Users/t_iwanaga/workspace/hpb-clinic/hpb-apiclient-generator/src/main/resources/HpbApiClientCodeGenerator/ApiClient.mustache",
+		"/Users/t_iwanaga/workspace/hpb-clinic/hpb-apiclient-generator/src/main/resources/HpbApiClientCodeGenerator/error_model.mustache",
+		"/Users/t_iwanaga/workspace/hpb-clinic/hpb-apiclient-generator/src/main/resources/HpbApiClientCodeGenerator/pojo.mustache",
+		"/Users/t_iwanaga/workspace/hpb-clinic/hpb-apiclient-generator/src/main/resources/HpbApiClientCodeGenerator/model.mustache",
+		"/Users/t_iwanaga/Downloads/example/src/site/markdown/example.md",
+		"/Users/t_iwanaga/.m2/settings.xml",
+		"/Users/t_iwanaga/.m2/settingx.xml",
+		"/Users/t_iwanaga/Downloads/ReadOnly_MissionSheet_2018_09_13.xml",
+		"/Users/t_iwanaga/Documents/開発準備タスク",
+		"/Users/t_iwanaga/Documents/洗い出しタスク",
+		"/タイトル\tアサイン\t内容\t見積もり\tラベル1\tラベル2\tラベル3",
+		"/Users/t_iwanaga/Documents/その他要件定義追加分",
+		"/Users/t_iwanaga/Documents/画面仕様書遡及修正",
+		"/Users/t_iwanaga/Documents/都道府県マスタサンプル",
+		"/Users/t_iwanaga/Documents/市区マスタサンプル",
+		"/Users/t_iwanaga/Documents/政令指定都市マスタ",
+		"/Users/t_iwanaga/Documents/サービスエリアマスタ",
+		"/Users/t_iwanaga/Documents/MAマスタ",
+		"/Users/t_iwanaga/Documents/駅マスタサンプル",
+		"/Users/t_iwanaga/workspace/hpb-dev/hpb-cs-account-api/src/test/resources/logback-test.xml",
+		"/Users/t_iwanaga/workspace/hpb-clinic/hpb-apiclient-generator/src/main/resources/HpbApiClientCodegen/ApiClient.mustache",
+		"/Users/t_iwanaga/workspace/hpb-clinic/hpb-apiclient-generator/src/main/resources/HpbApiClientCodeGenerator/api_doc.mustache",
+		"/Users/t_iwanaga/workspace/hpb-clinic/hpb-apiclient-generator-maven-plugin/HpbApiClient/README.md",
+		"/Users/t_iwanaga/workspace/hpb-clinic/hpb-apiclient-generator-maven-plugin/pom.xml",
+		"/Users/t_iwanaga/workspace/hpb-clinic/hpb-apiclient-generator-maven-plugin/README.md",
+		"/Users/t_iwanaga/Documents/インポートテスト",
+		"/Users/t_iwanaga/Documents/その他",
+		"/Users/t_iwanaga/Downloads/RLS JIRA 2018-06-25T13_22_27+0900.csv",
+		"/Users/t_iwanaga/Downloads/RLS JIRA 2018-06-25T13_41_30+0900.csv",
+		"/Users/t_iwanaga/Documents/reimport2.csv",
+		"/Users/t_iwanaga/Documents/reimport.csv",
+		"/Users/t_iwanaga/Downloads/BulkCreate-configuration-201806222322.txt",
+		"/Users/t_iwanaga/Documents/タスク洗い出し.csv",
+		"/Users/t_iwanaga/workspace/hpb-clinic/hpb-apiclient-generator/pom.xml",
+		"/Users/t_iwanaga/workspace/hpb-clinic/hpb-api-client-generator-maven-plugin/README.md",
+		"/Users/t_iwanaga/workspace/hpb-clinic/hpb-api-client-generator-maven-plugin/pom.xml",
+		"/Users/t_iwanaga/workspace/hpb-clinic/hpb-client-generator-maven-plugin/pom.xml",
+		"/Users/t_iwanaga/workspace/hpb-clinic/hpb-apiclient-generator/src/main/resources/HpbApiClientCodegen/api.mustache",
+		"/Users/t_iwanaga/workspace/sandbox/src/main/java/org/openapitools/client/api/MiddleAreaControllerApi.java",
+		"/Users/t_iwanaga/Downloads/hpb-pom-2.0.0-SNAPSHOT (1).pom",
+		"/Users/t_iwanaga/Downloads/eb-java-scorekeep-xray-gettingstarted-v1.3/src/main/java/scorekeep/WebConfig.java",
+		"/Users/t_iwanaga/Downloads/spring-cloud-dependencies-Finchley.M9.pom",
+		"/Users/t_iwanaga/workspace/private/spring-config/application-local.yml",
+		"/Users/t_iwanaga/Downloads/grep.txt",
+		"/Users/t_iwanaga/workspace/hpb-dev/hpb-modules/hpb-mail/README.md",
+		"/Users/t_iwanaga/Documents/02_美容医療/05_アクション計画/01_EXEレビュー議事録/第1回（20170920）/集客EXEレビュー0920.txt",
+		"/Users/t_iwanaga/workspace/hpb-sr/datadog-monitor-manager/env/template/monitor_template.tf",
+		"/Users/t_iwanaga/workspace/hpb-sr/datadog-monitor-manager/integration/diff.py",
+		"/Users/t_iwanaga/workspace/hpb-sr/datadog-monitor-manager/get_monitor.sh",
+		"/Users/t_iwanaga/workspace/hpb-sr/datadog-monitor-manager/env/staging/staging.tf",
+		"/Users/t_iwanaga/workspace/hpb-sr/datadog-monitor-manager/env/env.tf",
+		"/Users/t_iwanaga/workspace/hpb-sr/datadog-monitor-manager/env/staging/cluster/apache_A.tf",
+		"/Users/t_iwanaga/workspace/hpb-sr/datadog-monitor-manager/env/staging/cluster/db.tf",
+		"/Users/t_iwanaga/workspace/hpb-sr/datadog-monitor-manager/provider.tf",
+		"/Users/t_iwanaga/workspace/hpb-dev/hpb-cs-kirei-api/src/main/resources/application-stress1.yml",
+		"/Users/t_iwanaga/workspace/hpb-sr/datadog-monitor-manager/terraform.tfvars",
+		"/Users/t_iwanaga/workspace/hpb-sr/datadog-monitor-manager/tf/execute.tf",
+		"/Users/t_iwanaga/workspace/hpb-sr/datadog-monitor-manager/main.tf",
+		"/Users/t_iwanaga/workspace/hpb-sr/datadog-monitor-manager/variables.tf",
+		"/Users/t_iwanaga/workspace/hpb-sr/datadog-monitor-manager/role/os/cpu_usage_monitor.tf",
+		"/Users/t_iwanaga/workspace/hpb-sr/datadog-monitor-manager/env/prod/csp_app_server.tf",
+		"/Users/t_iwanaga/workspace/hpb-sr/datadog-monitor-manager/env/staging/main.tf",
+		"/Users/t_iwanaga/workspace/hpb-sr/datadog-monitor-manager/.terraform/modules/modules.json",
+		"/Users/t_iwanaga/workspace/hpb-sr/datadog-monitor-manager/terraform.tfstate",
+		"/Users/t_iwanaga/workspace/hpb-sr/datadog-monitor-manager/host/2e4a15b4ace4.tf",
+		"/Users/t_iwanaga/workspace/hpb-sr/datadog-monitor-manager/host/5d6522041984.tf",
+		"/Users/t_iwanaga/workspace/private/nodejs/tennis_heroku/index.js",
+		"/Users/t_iwanaga/workspace/hpb-sr/hpb-replace-operation/lib/service/front_build_service.rb",
+		"/Users/t_iwanaga/workspace/hpb-sr/hpb-replace-operation/command/frontend_release_command.thor",
+		"/Users/t_iwanaga/Downloads/SampleController.class",
+		"/Users/t_iwanaga/workspace/hpb-sr/hpb-replace-operation/config/release/sda/stress.yml",
+		"/Users/t_iwanaga/Downloads/sda-poc.pem",
+		"/Users/t_iwanaga/workspace/hpb-sr/hpb-stress-test/work/HPB-20635/README.md"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 127.0,
+		"where_history":
+		[
+			"/Users/t_iwanaga/workspace/private/react_native/albums/src/components"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"- ",
+			"-",
+			"HPBCLINIC",
+			"document.querySelectorAll('#jsiMemberResourceTable tr')[2]",
+			"\"",
+			"actions",
+			" {4}",
+			" {1}\\n",
+			"\\s{1}\\n",
+			"\\s",
+			"email",
+			"Text",
+			"text",
+			"                        ",
+			"                       ",
+			"                      ",
+			"                     ",
+			"                    ",
+			"                   ",
+			"                  ",
+			"                 ",
+			"                ",
+			"               ",
+			"              ",
+			"             ",
+			"            ",
+			"           ",
+			"          ",
+			"         ",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"                        ",
+			"                       ",
+			"                      ",
+			"                     ",
+			"                    ",
+			"                   ",
+			"                  ",
+			"                 ",
+			"                ",
+			"               ",
+			"              ",
+			"             ",
+			"            ",
+			"           ",
+			"          ",
+			"         ",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"Text",
+			"CardSection",
+			"View",
+			"CardSection",
+			"Text",
+			"Card",
+			"View",
+			"Header"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"  ",
+			"\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/t_iwanaga/workspace/private/react_native"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"hpb-cs-btseolp-api/src/main/java/jp/hotpepper/beauty/cs/btseolp/repository/cache/redis/RedisRepository.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
